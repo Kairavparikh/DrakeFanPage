@@ -1,0 +1,1 @@
+This website uses Java and HTML to display products from Drake which will take you to his website for purchase. There is also an albums section that displays his albums and a link will take them to his Spotify account. There is a Home screen as well as a Tour page where information on his latest tour can be accessible. 
